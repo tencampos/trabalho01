@@ -1,5 +1,5 @@
 body{
-  background-color:#262727;
+  background-color:#1f0500;
   font-family: 'Roboto Mono', monospace;
 }
 
@@ -13,11 +13,11 @@ box-shadow: 5px 5px 37px 5px rgba(0,0,0,0.38);
   margin-top: auto;
   max-width: 650px;
   margin-top: 100px;
-  background-color: rgb(29, 26, 0);
+  background-color: rgb(200, 255, 0);
   padding: 15px;
   border: 1px solid black;
   border-radius: 8px;
-  color: rgba(187, 4, 13, 0.699);
+  color:rgb(200, 255, 0);
 }
 
 section h1{
@@ -47,5 +47,5 @@ img {
   margin-right: auto;
   display: block;
   transform: translateY(-55%);
-  border: 8px solid rgb(29, 26, 0);
+  border: 8px solid rgb(200, 255, 0);
 }
